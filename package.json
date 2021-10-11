@@ -1,0 +1,17 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "server.js",
+  "author": "Cesar-M-Diaz <arq.cmdiaz1@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "busboy": "^0.3.1",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "express-busboy": "^8.0.0",
+    "mongoose": "^6.0.8",
+    "nodemon": "^2.0.13",
+    "read-excel-file": "^5.2.13"
+  }
+}
